@@ -1,0 +1,7 @@
+Types of Sensor fusion algorithms:
+
+1. Kalman filtering 
+2. Dempster–Shafer
+3. Cnn
+4. Gausian Processes
+5. Bayesian networks
