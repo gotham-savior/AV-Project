@@ -7,3 +7,8 @@ Installing hector slam SDK and testing the Intel D435i camera - elaborate on cam
 Interfacing IMU- uses, ros topics of IMU on jetson testing<br />
 Interfacing WSS- uses, ros topics of WSS on jetson testing<br />
 Interfacing L293D - jetson nano- need to understand PWM, H-bridge working to control two motors. <br />
+
+
+**Sensor fusion**  
+What is sensor fusion? why do we need it?  
+
