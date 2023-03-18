@@ -1,5 +1,5 @@
 # AV-Project
-open source AV project that provides understanding of different algorithms and techniques in Perception, Planning and Control.<br />
+**open source AV project that provides understanding of different algorithms and techniques in Perception, Planning and Control.<br />**
 Installing ROS on local windows machine <br />
 Installing ROS on Jetson nano<br />
 Installing rp lidar SDK and testing the rp lidar sensor - elaborate on sepcs of lidar, working<br />
