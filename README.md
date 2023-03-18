@@ -11,6 +11,6 @@ Interfacing L293D - jetson nano- need to understand PWM, H-bridge working to con
 
 **Sensor fusion**  
 What is sensor fusion? why do we need it?
-Algorithms for sensor fusion.
-EKF working, EKF implementation on IMU, LIDAR, GPS/ WSS
+Algorithms for sensor fusion.  
+EKF working, EKF implementation on IMU, LIDAR, GPS/ WSS  
 
