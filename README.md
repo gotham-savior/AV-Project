@@ -16,3 +16,8 @@ What is sensor fusion? why do we need it?
 Algorithms for sensor fusion.  
 EKF working, EKF implementation on IMU, LIDAR, GPS/ WSS  
 
+**Visual odometry**
+What is odometry? uses?
+Odometry algorithms, odometry using NN- Deep neural odometry!
+
+
