@@ -6,4 +6,4 @@ Installing rp lidar SDK and testing the rp lidar sensor - elaborate on sepcs of 
 Installing hector slam SDK and testing the Intel D435i camera - elaborate on camera specs, depth sense, uses of camera.<br />
 Interfacing IMU- uses, ros topics of IMU on jetson testing<br />
 Interfacing WSS- uses, ros topics of WSS on jetson testing<br />
-Interfacing L293D - jetson nano<br />
+Interfacing L293D - jetson nano- need to understand PWM, H-bridge working to control two motors. <br />
