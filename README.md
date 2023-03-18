@@ -1,5 +1,5 @@
 # AV-Project
-**open source AV project that provides understanding of different algorithms and techniques in Perception, Planning and Control.<br />**
+An open source AV project to understand different algorithms and techniques in Perception, Planning and Control.<br />
 
 **Setting up the hardware, installing necessary software components and testing each one if they're installed properly**  
 Installing ROS on local windows machine <br />
