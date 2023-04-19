@@ -25,6 +25,15 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(FL_ENA, GPIO.OUT, initial=GPIO.LOW)
 GPIO.setup(FL_IN1, GPIO.OUT, initial=GPIO.LOW)
 GPIO.setup(FL_IN2, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RL_ENA, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RL_IN1, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RL_IN2, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RR_ENA, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RR_IN1, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(RR_IN2, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(FR_ENA, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(FR_IN1, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(FR_IN2, GPIO.OUT, initial=GPIO.LOW)
 
 def stop():
 # Stop
